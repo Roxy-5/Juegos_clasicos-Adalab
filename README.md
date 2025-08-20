@@ -1,4 +1,4 @@
-![](image.jpg)](https://github.com/Roxy-5/Juegos_clasicos/blob/main/Trivial.jpg)
+![](image.jpg)(https://github.com/Roxy-5/Juegos_clasicos/blob/main/Trivial.jpg)
 
 ### 🛸 Juegos clásicos
 
