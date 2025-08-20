@@ -1,0 +1,94 @@
+TRIVIAL
+
+# Preguntas, opciones y respuestas correctas
+preguntas = [
+    "¿Qué artista lanzó el éxito “...Baby One More Time” en 1998?",
+    "¿Qué banda cantaba “I Want It That Way”?",
+    "¿Qué cantante canadiense tuvo un gran éxito con “Complicated” en 2002?",
+    "¿Qué rapero popularizó la palabra “yeah!” en 2004?",
+    "¿Qué grupo femenino lanzó el hit “Say My Name”?",
+    "¿Quién cantaba “Hips Don’t Lie” con Wyclef Jean?",
+    "¿Qué banda de rock alternativo cantaba “Mr. Brightside”?",
+    "¿Quién fue conocido como “Slim Shady”?",
+    "¿Qué dúo cantaba “Hey Ya!” en 2003?",
+    "¿Qué grupo británico se separó en 1996 y se reunió en 2007 sin Victoria Beckham?"
+]
+
+opciones = [
+    ["A) Britney Spears", "B) Christina Aguilera", "C) Jessica Simpson", "D) Avril Lavigne"],  
+    ["A) NSYNC", "B) Boyz II Men", "C) Backstreet Boys", "D) Westlife"],                      
+    ["A) Avril Lavigne", "B) Alanis Morissette", "C) Nelly Furtado", "D) Shania Twain"],       
+    ["A) Eminem", "B) 50 Cent", "C) Nelly", "D) Usher"],                                      
+    ["A) TLC", "B) Destiny’s Child", "C) Sugababes", "D) Spice Girls"],                        
+    ["A) Shakira", "B) Jennifer Lopez", "C) Rihanna", "D) Beyoncé"],                          
+    ["A) Green Day", "B) The Killers", "C) Coldplay", "D) Linkin Park"],                      
+    ["A) Eminem", "B) 50 Cent", "C) Dr. Dre", "D) Snoop Dogg"],                              
+    ["A) OutKast", "B) The Black Eyed Peas", "C) Gnarls Barkley", "D) LMFAO"],                
+    ["A) Sugababes", "B) Atomic Kitten", "C) Little Mix", "D) Spice Girls"]                   
+]
+
+respuestas_correctas = ['A', 'C', 'A', 'D', 'B', 'A', 'B', 'A', 'A', 'D']
+
+puntaje = 0
+
+nombre = input("¡Hola! 🌟 ¿Lista para el gran test musical que marcará tu noche y te hará revivir tu adolescencia? 🎶 Dime tu nombre para empezar:")
+
+for i in range(len(preguntas)):
+    print(f"\nPregunta {i+1}: {preguntas[i]}")
+    for opcion in opciones[i]:
+        print(opcion)
+    intentos = 0
+    while intentos < 3:
+        respuesta = input("Elige la opción correcta (A, B, C, D): ").strip().upper()
+
+        if respuesta not in ['A', 'B', 'C', 'D']: #por si mete una letra que no sea ABCD
+            print("Entrada no válida. Por favor, elige A, B, C o D. ❗")
+            continue  
+
+        if respuesta == respuestas_correctas[i]:
+            print("¡Respuesta correcta!✅")
+            puntaje += 1
+            break
+        else:
+            intentos += 1
+            if intentos < 3:
+                print(f"Respuesta incorrecta 😢. Inténtalo de nuevo. Te quedan {3 - intentos} intentos.")
+            else:
+                print(f"Respuesta incorrecta. Se agotaron tus intentos. La respuesta correcta es: {respuestas_correctas[i]}")
+
+if puntaje >= 5:
+    print(f"¡{nombre} eres toda una DancinQueen con glitter en los párpados bailando en tu cuarto con el discman!🕺")
+else:
+    print(f"{nombre}, tranqui... no todos nacimos con el ritmo de Beyoncé. Aún estás a tiempo de rebobinar el casete y ponerte al día con los hits de los 2000 💿🎶")
+    
+print(f"Tu puntuación final es: {puntaje} de {len(preguntas)}")
+
+PIEDRA, PAPEL, TIJERAS, LAGARTO, SPOCK
+
+import random
+
+# Nuevas opciones
+opciones = ["piedra", "papel", "tijeras", "lagarto", "spock"]
+
+print("Saludos, humano. 🤖\nHoy tendrás el honor —y la humillación estadísticamente inevitable— de enfrentarte al mayor genio en Piedra, Papel, Tijeras, Lagarto, Spock. \nPrepárate para una derrota elegante.💥\nElige tu arma")
+
+usuario = input("piedra, papel, tijeras, lagarto o spock → ").lower()
+
+computadora = random.cshoice(opciones)
+
+print(f"Tú elección fue: {usuario}")
+print(f"El gran Sheldon eligió: {computadora}")
+
+# Reglas
+if usuario == computadora:
+    print("¡Empateaste con el maestro!")
+elif (
+    (usuario == "tijeras" and computadora in ["papel", "lagarto"]) or
+    (usuario == "papel" and computadora in ["piedra", "spock"]) or
+    (usuario == "piedra" and computadora in ["lagarto", "tijeras"]) or
+    (usuario == "lagarto" and computadora in ["spock", "papel"]) or
+    (usuario == "spock" and computadora in ["tijeras", "piedra"])
+):
+    print("¡Inconcebible! Has derrotado al maestro… esto requiere revisión de datos. 🎉")
+else:
+    print("Como predije estadísticamente, tu derrota era inevitable... Bazinga!. 😢")
