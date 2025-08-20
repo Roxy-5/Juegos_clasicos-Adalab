@@ -1,5 +1,5 @@
-![](image.jpg)
 
+![](image.jpg)
 ### 🛸 Juegos clásicos
 
 Trivial
