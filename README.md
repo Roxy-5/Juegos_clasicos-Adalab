@@ -2,8 +2,9 @@
 
 ### 🛸 Juegos clásicos
 
--Trivial
--Piedra, papel, tijeras, lagarto y Spock
+Trivial
+
+Piedra, papel, tijeras, lagarto y Spock
 
 ### 🌍 Cómo usar
 
