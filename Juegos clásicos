@@ -63,6 +63,7 @@ else:
     
 print(f"Tu puntuación final es: {puntaje} de {len(preguntas)}")
 
+
 PIEDRA, PAPEL, TIJERAS, LAGARTO, SPOCK
 
 import random
