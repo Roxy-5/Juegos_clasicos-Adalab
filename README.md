@@ -10,7 +10,7 @@ Piedra, papel, tijeras, lagarto y Spock
 
 1. Clona este repositorio.
 2. Instala las dependencias necesarias.
-3. Ejecuta el proyecto.
+3. Ejecuta el proyecto: https://juego-trivia-co0o.onrender.com/
 
 ### 🪐 Autor
 
