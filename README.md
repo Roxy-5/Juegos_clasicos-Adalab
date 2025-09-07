@@ -1,6 +1,5 @@
-![](https://raw.githubusercontent.com/Roxy-5/Evaluacion1-Adalab/main/image.jpg)
-
 ![](https://raw.githubusercontent.com/Roxy-5/Juegos_clasicos/main/Trivial.jpg)
+![](https://raw.githubusercontent.com/Roxy-5/Evaluacion1-Adalab/main/image.jpg)
 
 ### 🛸 Juegos clásicos
 
@@ -17,3 +16,5 @@ Piedra, papel, tijeras, lagarto y Spock
 ### 🪐 Autor
 
 Rocío Ramírez
+
+
