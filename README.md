@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/Roxy-5/Evaluacion1-Adalab/main/image.jpg)
 ### 🛸 Juegos clásicos
 
-Trivial
+- Trivial musical
 
-Piedra, papel, tijeras, lagarto y Spock
+- Piedra, papel, tijeras, lagarto y Spock
 
 ### 🌍 Cómo usar
 
