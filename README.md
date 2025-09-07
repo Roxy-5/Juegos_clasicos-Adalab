@@ -21,6 +21,7 @@
 5. ¡Disfruta y reta a tus amigos!
 
 ¡Que empiece el reto musical! 🎶
+![](https://github.com/Roxy-5/Juegos-clasicos/blob/4e469692fd3296ae8e9fb54e04f85b94c3ed640a/Trivial.jpg)
 
 ### 🪐 Autor
 
