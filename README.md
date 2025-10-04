@@ -15,7 +15,7 @@
 ## 🚀 ¿Cómo usar?
 
 1. Clona este repositorio.
-2. Instala las librerías.
+2. Instala las librerías en Visual Code.
 3. Ejecuta las celdas de código una a una.
 4. Responde a las preguntas cuando el programa te lo pida.
 5. Juega a Piedra, papel, tijera, lagarto y Spock cuando aparezca la opción.
