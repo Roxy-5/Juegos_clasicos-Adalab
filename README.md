@@ -28,6 +28,6 @@ https://www.canva.com/design/DAGCHuYsJ4w/gS61_rLPmffyZVI9jau93g/view?utm_content
 
 ![](https://github.com/Roxy-5/Juegos-clasicos/blob/4e469692fd3296ae8e9fb54e04f85b94c3ed640a/Trivial.jpg)
 
-### 🪐 Autores
+## 🪐 Autores
 
 Rocío Ramírez, Yeri, Elena y Ángela
