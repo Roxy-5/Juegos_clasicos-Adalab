@@ -25,6 +25,7 @@
 
 ## 🎞️ Presentación
 https://www.canva.com/design/DAGCHuYsJ4w/gS61_rLPmffyZVI9jau93g/view?utm_content=DAGCHuYsJ4w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2ac44171b
+
 ![](https://github.com/Roxy-5/Juegos-clasicos/blob/4e469692fd3296ae8e9fb54e04f85b94c3ed640a/Trivial.jpg)
 
 ### 🪐 Autores
