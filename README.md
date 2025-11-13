@@ -1,11 +1,10 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
-### 🛸 Juegos clásicos
+### 📊 Juegos clásicos
+- 🎶 Trivial musical: sencillo juego de preguntas y respuestas sobre música pop para poner a prueba tus conocimientos musicales de los 90, 2000 hasta la actualidad.
 
-- 🎤 Trivial musical: sencillo juego de preguntas y respuestas sobre música pop para poner a prueba tus conocimientos musicales de los 90, 2000 hasta la actualidad.
+- 🛸 Mini-juego de Piedra, papel, tijeras, lagarto y Spock 👾 ¡Para divertirte aún más!
 
-- 👾 Mini-juego de Piedra, papel, tijeras, lagarto y Spock ¡Para divertirte aún más!
-
-### 📋 ¿En qué consiste?
+### 📈 ¿En qué consiste?
 
 - El programa te hace una serie de preguntas sobre artistas, canciones y curiosidades musicales.
 - Debes responder escribiendo la letra correcta (A, B, C o D).
@@ -21,7 +20,7 @@
 5. Juega a Piedra, papel, tijera, lagarto y Spock cuando aparezca la opción.
 6. ¡Disfruta y reta a tus amigos!
 
-¡Que empiece el reto musical! 🎶
+¡Que empiece el reto musical! 
 
 ### 🎞️ Presentación
 https://www.canva.com/design/DAGCHuYsJ4w/gS61_rLPmffyZVI9jau93g/view?utm_content=DAGCHuYsJ4w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2ac44171b
