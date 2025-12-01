@@ -23,7 +23,7 @@
 ¡Que empiece el reto musical! 
 
 ### 🎞️ Presentación
-https://www.canva.com/design/DAGCHuYsJ4w/gS61_rLPmffyZVI9jau93g/view?utm_content=DAGCHuYsJ4w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2ac44171b
+https://www.canva.com/design/DAG2AjpNGx0/uNQiHugxdtUWrSJafuk7pA/view?utm_content=DAG2AjpNGx0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h052244985d
 
 ### 🪐 Autores
 
